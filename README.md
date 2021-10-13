@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-I'm fartas Taqiyeddine, computer science graduate student interested in deep learning (computer vision), networking and security,self-taught Full Stack web developer.
+I'm fartas Taqiyeddine, computer science graduate student interested in Big DATA,self-taught Full Stack web developer.
 
 <img src ="https://github.com/younes-h/younes-h/blob/main/122.gif"> 
 
